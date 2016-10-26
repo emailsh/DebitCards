@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="wenjuns-MacBook-Pro.local" name="Banking.AppTest" tests="3" failures="0" timestamp="25 Oct 2016 19:10:33 GMT" time="0.036" errors="0">
+  <testcase name="FlightBooking" time="0.003" classname="Banking.AppTest"/>
+  <testcase name="FlightCancel" time="0.005" classname="Banking.AppTest"/>
+  <testcase name="OpeningBrowser" time="0.001" classname="Banking.AppTest"/>
+</testsuite>
